@@ -97,7 +97,7 @@ button{
 }
 
 
-@media screen and (max-width:720){
+@media screen and (max-width:45vw){
   body{
     padding:3rem;
     height:100vh;
