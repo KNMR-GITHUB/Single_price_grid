@@ -105,7 +105,7 @@ button{
   }
   main{
     width: auto;
-    height: auto;
+    height: 100vh;
   }
   .bottom{
     flex-direction: column;
