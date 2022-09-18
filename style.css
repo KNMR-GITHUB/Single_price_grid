@@ -101,11 +101,11 @@ button{
   body{
     padding:3rem;
     height:100vh;
-    width:100vw;
+    width:auto;
   }
   main{
-    width: 100vw;
-    height: auto;
+    width: auto;
+    height: inherit;
   }
   .bottom{
     flex-direction: column;
